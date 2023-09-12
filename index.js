@@ -1,3 +1,5 @@
 const a = "A";
-const c = "C";
 
+const c = "C";
+const nome = "Gustavo"
+console.log(`Olá pessoal, ${nome} aqui!`)
