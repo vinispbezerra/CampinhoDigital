@@ -6,3 +6,4 @@ console.log(`Olá pessoal, ${nome} aqui!`)
 
 const d = "D";
 
+const f = "F";
